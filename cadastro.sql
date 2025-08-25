@@ -2,7 +2,7 @@
 -- version 5.2.1
 -- https://www.phpmyadmin.net/
 --
--- Host: 127.0.0.1:3306
+-- Host: https://edun97.github.io/SQL/
 -- Tempo de geração: 25/08/2025 às 18:05
 -- Versão do servidor: 9.1.0
 -- Versão do PHP: 8.3.14
